@@ -1,0 +1,73 @@
+.logoSize{
+    height: 40px;
+}
+
+.mePic{
+    width: 500px;
+    height: auto;
+}
+
+.navigation{
+  text-align: center;
+    } /* I add this txt alain center to center the logo and menu*/
+    
+    
+    .inline-block{
+        display: inline-block;
+    }
+    
+    .logo{
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+    }
+    
+    nav{
+        display: inline-block;
+        vertical-align: top;
+        margin-top: 0.7%;
+      }
+    
+    nav ul{
+      display: inline-block;
+      vertical-align: top; 
+    }
+    
+    ul li{
+        display: inline; }
+    
+    /* here is the class centeredContent i mention in added in the HTML*/
+    .centeredContent{
+        text-align: center;
+    }
+
+    .heroImag{
+        height: 600px;
+        padding: 25px;
+        text-align: center;
+    }
+    button{
+        margin-left: 120px;
+        margin-bottom: 20px;
+    }
+    
+    
+    .content{
+        width: 500px;
+        margin: 0 auto;
+    }
+    
+    footer{
+        background-color: #12ccd3;
+    }
+    
+    footer ul{
+      display: inline-block;
+      vertical-align: top;
+      margin-left: 1200px;
+    }
+    
+    body{
+       background-image: url(/images/pxfuel.com.jpg);
+       background-size: cover;
+    }
